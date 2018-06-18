@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.in28minutes.rest.webservices.currencyexchangeservice;
+package com.governmentcio.rest.webservices.currencyexchangeservice;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -12,9 +12,10 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author <a href=mailto:support@aeronomos.org>aeronomos</a>
  * 
- *         Please document me!!
+ * @author <a href=mailto:support@governmentcio.com>support</a>
+ * 
+ * Please document me!!
  */
 @RestController
 public class CurrencyExchangeController {

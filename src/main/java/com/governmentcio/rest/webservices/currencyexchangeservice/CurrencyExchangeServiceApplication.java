@@ -1,4 +1,4 @@
-package com.in28minutes.rest.webservices.currencyexchangeservice;
+package com.governmentcio.rest.webservices.currencyexchangeservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,6 +7,12 @@ import org.springframework.context.annotation.Bean;
 
 import brave.sampler.Sampler;
 
+/**
+ * 
+ * @author <a href=mailto:support@governmentcio.com>support</a>
+ * 
+ *         Please document me!!
+ */
 @SpringBootApplication
 @EnableDiscoveryClient
 public class CurrencyExchangeServiceApplication {

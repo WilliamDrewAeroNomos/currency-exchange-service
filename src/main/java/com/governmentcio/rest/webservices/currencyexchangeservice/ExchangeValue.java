@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.in28minutes.rest.webservices.currencyexchangeservice;
+package com.governmentcio.rest.webservices.currencyexchangeservice;
 
 import java.math.BigDecimal;
 
@@ -10,7 +10,8 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 
 /**
- * @author <a href=mailto:support@aeronomos.org>aeronomos</a>
+ * 
+ * @author <a href=mailto:support@governmentcio.com>support</a>
  * 
  *         Please document me!!
  */
